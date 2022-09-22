@@ -1,0 +1,24 @@
+{
+  "name": "assignment-webtoon-server",
+  "version": "1.0.0",
+  "description": "웹툰 데이터분석 문제 출제를 위한 서버(람다로 배포)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chejg7/assignment-webtoon-server.git"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chejg7/assignment-webtoon-server/issues"
+  },
+  "homepage": "https://github.com/chejg7/assignment-webtoon-server#readme",
+  "dependencies": {
+    "@fastify/aws-lambda": "^3.1.3",
+    "fastify": "^4.6.0"
+  }
+}
