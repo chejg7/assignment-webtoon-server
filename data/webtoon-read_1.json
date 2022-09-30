@@ -1,0 +1,860 @@
+[
+ {
+  "read_no": 4382944,
+  "read_date": "2022. 09. 25 am 07:33:21",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382945,
+  "read_date": "2022. 09. 25 am 07:35:14",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382946,
+  "read_date": "2022. 09. 25 am 07:39:13",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 3,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382947,
+  "read_date": "2022. 09. 25 pm 08:33:21",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382948,
+  "read_date": "2022. 09. 25 pm 08:37:24",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382949,
+  "read_date": "2022. 09. 25 pm 08:40:26",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 3,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382950,
+  "read_date": "2022. 09. 25 pm 08:44:30",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 4,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382951,
+  "read_date": "2022. 09. 25 pm 08:49:32",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 5,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382952,
+  "read_date": "2022. 09. 25 pm 08:55:01",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 6,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382953,
+  "read_date": "2022. 09. 25 pm 08:59:01",
+  "customer_id": 14,
+  "webtoon_no": 443,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4382954,
+  "read_date": "2022. 09. 25 pm 09:01:23",
+  "customer_id": 14,
+  "webtoon_no": 443,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4382955,
+  "read_date": "2022. 09. 25 pm 09:04:34",
+  "customer_id": 14,
+  "webtoon_no": 443,
+  "webtoon_ep_no": 3,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4382956,
+  "read_date": "2022. 09. 25 pm 09:14:41",
+  "customer_id": 14,
+  "webtoon_no": 443,
+  "webtoon_ep_no": 4,
+  "is_bookmarked": "Y",
+  "score": 5
+ },
+ {
+  "read_no": 4382957,
+  "read_date": "2022. 09. 25 pm 10:12:14",
+  "customer_id": 732,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 10,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382958,
+  "read_date": "2022. 09. 25 pm 10:16:32",
+  "customer_id": 732,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 11,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382959,
+  "read_date": "2022. 09. 25 pm 10:18:16",
+  "customer_id": 732,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 12,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382960,
+  "read_date": "2022. 09. 25 pm 10:22:54",
+  "customer_id": 732,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 13,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382961,
+  "read_date": "2022. 09. 25 pm 10:25:32",
+  "customer_id": 732,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 14,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382962,
+  "read_date": "2022. 09. 25 pm 10:29:11",
+  "customer_id": 732,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 15,
+  "is_bookmarked": "Y"
+ },
+ {
+  "read_no": 4382963,
+  "read_date": "2022. 09. 26 pm 04:31:23",
+  "customer_id": 207,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 14,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382964,
+  "read_date": "2022. 09. 26 pm 04:33:53",
+  "customer_id": 207,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 15,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382965,
+  "read_date": "2022. 09. 26 pm 04:37:22",
+  "customer_id": 207,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 16,
+  "is_bookmarked": "Y",
+  "score": 2
+ },
+ {
+  "read_no": 4382966,
+  "read_date": "2022. 09. 26 pm 05:23:34",
+  "customer_id": 673,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 60,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382967,
+  "read_date": "2022. 09. 26 pm 05:25:32",
+  "customer_id": 673,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 61,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382968,
+  "read_date": "2022. 09. 26 pm 05:27:07",
+  "customer_id": 673,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 62,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382969,
+  "read_date": "2022. 09. 26 pm 05:30:33",
+  "customer_id": 673,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 63,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382970,
+  "read_date": "2022. 09. 26 pm 05:33:12",
+  "customer_id": 673,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 64,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382971,
+  "read_date": "2022. 09. 26 pm 05:35:31",
+  "customer_id": 673,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 65,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382972,
+  "read_date": "2022. 09. 26 pm 06:14:41",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 7,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382973,
+  "read_date": "2022. 09. 26 pm 06:18:32",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 8,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382974,
+  "read_date": "2022. 09. 26 pm 06:22:43",
+  "customer_id": 14,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 9,
+  "is_bookmarked": "Y",
+  "score": 4
+ },
+ {
+  "read_no": 4382975,
+  "read_date": "2022. 09. 26 pm 07:31:25",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 20,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382976,
+  "read_date": "2022. 09. 26 pm 07:35:13",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 21,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382977,
+  "read_date": "2022. 09. 26 pm 07:37:55",
+  "customer_id": 587,
+  "webtoon_no": 401,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382978,
+  "read_date": "2022. 09. 26 pm 07:40:22",
+  "customer_id": 587,
+  "webtoon_no": 401,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 2
+ },
+ {
+  "read_no": 4382979,
+  "read_date": "2022. 09. 26 pm 07:43:31",
+  "customer_id": 587,
+  "webtoon_no": 401,
+  "webtoon_ep_no": 3,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382980,
+  "read_date": "2022. 09. 26 pm 07:48:29",
+  "customer_id": 587,
+  "webtoon_no": 401,
+  "webtoon_ep_no": 4,
+  "is_bookmarked": "Y",
+  "score": 2
+ },
+ {
+  "read_no": 4382981,
+  "read_date": "2022. 09. 26 pm 09:48:29",
+  "customer_id": 233,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 15,
+  "is_bookmarked": "Y"
+ },
+ {
+  "read_no": 4382982,
+  "read_date": "2022. 09. 26 pm 09:48:29",
+  "customer_id": 233,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 16,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382983,
+  "read_date": "2022. 09. 26 pm 09:48:29",
+  "customer_id": 233,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 17,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382984,
+  "read_date": "2022. 09. 26 pm 09:48:29",
+  "customer_id": 233,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 18,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4382985,
+  "read_date": "2022. 09. 26 pm 09:48:29",
+  "customer_id": 233,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 19,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4382986,
+  "read_date": "2022. 09. 26 pm 09:48:29",
+  "customer_id": 233,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 20,
+  "is_bookmarked": "Y",
+  "score": 5
+ },
+ {
+  "read_no": 4382987,
+  "read_date": "2022. 09. 26 pm 10:32:29",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 22,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382988,
+  "read_date": "2022. 09. 26 pm 10:35:32",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 23,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4382989,
+  "read_date": "2022. 09. 26 pm 10:37:34",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 24,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382990,
+  "read_date": "2022. 09. 26 pm 10:40:45",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 25,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382991,
+  "read_date": "2022. 09. 26 pm 10:44:23",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 26,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4382992,
+  "read_date": "2022. 09. 26 pm 10:47:23",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 27,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382993,
+  "read_date": "2022. 09. 26 pm 10:50:32",
+  "customer_id": 587,
+  "webtoon_no": 549,
+  "webtoon_ep_no": 28,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382994,
+  "read_date": "2022. 09. 26 pm 10:55:45",
+  "customer_id": 587,
+  "webtoon_no": 345,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "Y",
+  "score": 4
+ },
+ {
+  "read_no": 4382995,
+  "read_date": "2022. 09. 26 pm 11:22:43",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 10,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382996,
+  "read_date": "2022. 09. 26 pm 11:25:32",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 11,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382997,
+  "read_date": "2022. 09. 26 pm 11:28:42",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 12,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382998,
+  "read_date": "2022. 09. 27 am 07:30:21",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 4,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4382999,
+  "read_date": "2022. 09. 27 am 07:32:24",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 5,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383000,
+  "read_date": "2022. 09. 27 am 07:36:42",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 6,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383001,
+  "read_date": "2022. 09. 27 am 07:40:44",
+  "customer_id": 401,
+  "webtoon_no": 967,
+  "webtoon_ep_no": 7,
+  "is_bookmarked": "Y"
+ },
+ {
+  "read_no": 4383002,
+  "read_date": "2022. 09. 27 pm 12:22:43",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 13,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383003,
+  "read_date": "2022. 09. 27 pm 12:24:12",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 14,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383004,
+  "read_date": "2022. 09. 27 pm 12:27:32",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 15,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383005,
+  "read_date": "2022. 09. 27 pm 12:29:54",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 16,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383006,
+  "read_date": "2022. 09. 27 pm 12:33:12",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 17,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383007,
+  "read_date": "2022. 09. 27 pm 12:36:46",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 18,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383008,
+  "read_date": "2022. 09. 27 pm 12:39:12",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 19,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383009,
+  "read_date": "2022. 09. 27 pm 12:41:32",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 20,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383010,
+  "read_date": "2022. 09. 27 pm 12:44:22",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 21,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383011,
+  "read_date": "2022. 09. 27 pm 12:46:48",
+  "customer_id": 723,
+  "webtoon_no": 490,
+  "webtoon_ep_no": 22,
+  "is_bookmarked": "Y",
+  "score": 5
+ },
+ {
+  "read_no": 4383012,
+  "read_date": "2022. 09. 27 pm 05:12:34",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383013,
+  "read_date": "2022. 09. 27 pm 05:14:23",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383014,
+  "read_date": "2022. 09. 27 pm 05:17:32",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 3,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383015,
+  "read_date": "2022. 09. 27 pm 05:20:45",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 4,
+  "is_bookmarked": "Y",
+  "score": 5
+ },
+ {
+  "read_no": 4383016,
+  "read_date": "2022. 09. 27 pm 05:23:54",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 5,
+  "is_bookmarked": "N",
+  "score": 3
+ },
+ {
+  "read_no": 4383017,
+  "read_date": "2022. 09. 27 pm 05:25:46",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 6,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383018,
+  "read_date": "2022. 09. 27 pm 05:27:34",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 7,
+  "is_bookmarked": "N",
+  "score": 4
+ },
+ {
+  "read_no": 4383019,
+  "read_date": "2022. 09. 27 pm 05:30:32",
+  "customer_id": 673,
+  "webtoon_no": 978,
+  "webtoon_ep_no": 8,
+  "is_bookmarked": "Y",
+  "score": 5
+ },
+ {
+  "read_no": 4383020,
+  "read_date": "2022. 09. 27 pm 07:14:41",
+  "customer_id": 14,
+  "webtoon_no": 823,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383021,
+  "read_date": "2022. 09. 27 pm 07:17:32",
+  "customer_id": 14,
+  "webtoon_no": 823,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383022,
+  "read_date": "2022. 09. 27 pm 07:20:21",
+  "customer_id": 14,
+  "webtoon_no": 823,
+  "webtoon_ep_no": 3,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383023,
+  "read_date": "2022. 09. 27 pm 07:22:12",
+  "customer_id": 14,
+  "webtoon_no": 823,
+  "webtoon_ep_no": 4,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383024,
+  "read_date": "2022. 09. 27 pm 07:25:31",
+  "customer_id": 14,
+  "webtoon_no": 823,
+  "webtoon_ep_no": 5,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383025,
+  "read_date": "2022. 09. 27 pm 07:28:35",
+  "customer_id": 14,
+  "webtoon_no": 823,
+  "webtoon_ep_no": 6,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383026,
+  "read_date": "2022. 09. 27 pm 07:33:11",
+  "customer_id": 14,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 1,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383027,
+  "read_date": "2022. 09. 27 pm 07:33:21",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 7,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383028,
+  "read_date": "2022. 09. 27 pm 07:35:22",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 8,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383029,
+  "read_date": "2022. 09. 27 pm 07:37:12",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 9,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383030,
+  "read_date": "2022. 09. 27 pm 07:39:13",
+  "customer_id": 14,
+  "webtoon_no": 751,
+  "webtoon_ep_no": 2,
+  "is_bookmarked": "N",
+  "score": 5
+ },
+ {
+  "read_no": 4383031,
+  "read_date": "2022. 09. 27 pm 07:39:22",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 10,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383032,
+  "read_date": "2022. 09. 27 pm 07:41:32",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 11,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383033,
+  "read_date": "2022. 09. 27 pm 07:44:45",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 12,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383034,
+  "read_date": "2022. 09. 27 pm 07:46:47",
+  "customer_id": 401,
+  "webtoon_no": 572,
+  "webtoon_ep_no": 13,
+  "is_bookmarked": "Y"
+ },
+ {
+  "read_no": 4383035,
+  "read_date": "2022. 09. 27 pm 10:37:53",
+  "customer_id": 723,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 7,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383036,
+  "read_date": "2022. 09. 27 pm 10:39:15",
+  "customer_id": 723,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 8,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383037,
+  "read_date": "2022. 09. 27 pm 10:42:27",
+  "customer_id": 723,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 9,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383038,
+  "read_date": "2022. 09. 27 pm 10:44:52",
+  "customer_id": 723,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 10,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383039,
+  "read_date": "2022. 09. 27 pm 10:48:43",
+  "customer_id": 723,
+  "webtoon_no": 539,
+  "webtoon_ep_no": 11,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383040,
+  "read_date": "2022. 09. 27 pm 11:12:13",
+  "customer_id": 723,
+  "webtoon_no": 488,
+  "webtoon_ep_no": 18,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383041,
+  "read_date": "2022. 09. 27 pm 11:15:32",
+  "customer_id": 723,
+  "webtoon_no": 488,
+  "webtoon_ep_no": 19,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383042,
+  "read_date": "2022. 09. 27 pm 11:18:32",
+  "customer_id": 723,
+  "webtoon_no": 488,
+  "webtoon_ep_no": 20,
+  "is_bookmarked": "N"
+ },
+ {
+  "read_no": 4383043,
+  "read_date": "2022. 09. 27 pm 11:21:54",
+  "customer_id": 723,
+  "webtoon_no": 488,
+  "webtoon_ep_no": 21,
+  "is_bookmarked": "Y"
+ }
+]

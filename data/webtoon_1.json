@@ -1,0 +1,362 @@
+[
+ {
+  "webtoon_no": 345,
+  "title": "폰카로도 고화질의 공연을 찍을 수 있다",
+  "regist_date": "2021-11-02",
+  "customer_id": 3,
+  "webtoon_grade": "02",
+  "total_hits": 117912,
+  "average_hits": 1734,
+  "average_score": 4.78
+ },
+ {
+  "webtoon_no": 357,
+  "title": "우리집에 무언가 있는 것 같아",
+  "regist_date": "2022-01-10",
+  "customer_id": 8,
+  "webtoon_grade": "01",
+  "total_hits": 4914,
+  "average_hits": 91,
+  "average_score": 2.12
+ },
+ {
+  "webtoon_no": 389,
+  "title": "골목대장 고양이 레이 비기닝",
+  "regist_date": "2022-01-11",
+  "customer_id": 15,
+  "webtoon_grade": "02",
+  "total_hits": 8576,
+  "average_hits": 536,
+  "average_score": 3.23
+ },
+ {
+  "webtoon_no": 401,
+  "title": "볼륨을 크게 올려라",
+  "regist_date": "2022-02-01",
+  "customer_id": 18,
+  "webtoon_grade": "01",
+  "total_hits": 2665,
+  "average_hits": 65,
+  "average_score": 2.7800000000000002
+ },
+ {
+  "webtoon_no": 434,
+  "title": "출근하기 싫어",
+  "regist_date": "2022-02-03",
+  "customer_id": 3,
+  "webtoon_grade": "01",
+  "total_hits": 3738,
+  "average_hits": 89,
+  "average_score": 3.12
+ },
+ {
+  "webtoon_no": 439,
+  "title": "우리 영업팀 부장님",
+  "regist_date": "2022-02-11",
+  "customer_id": 131,
+  "webtoon_grade": "01",
+  "total_hits": 3686,
+  "average_hits": 97,
+  "average_score": 2.45
+ },
+ {
+  "webtoon_no": 443,
+  "title": "린다린다",
+  "regist_date": "2022-02-11",
+  "customer_id": 132,
+  "webtoon_grade": "03",
+  "total_hits": 273805,
+  "average_hits": 7823,
+  "average_score": 4.89
+ },
+ {
+  "webtoon_no": 456,
+  "title": "3번 슬로프",
+  "regist_date": "2022-02-15",
+  "customer_id": 171,
+  "webtoon_grade": "02",
+  "total_hits": 36366,
+  "average_hits": 1102,
+  "average_score": 3.45
+ },
+ {
+  "webtoon_no": 467,
+  "title": "심야의 야구장",
+  "regist_date": "2022-02-22",
+  "customer_id": 198,
+  "webtoon_grade": "02",
+  "total_hits": 63459,
+  "average_hits": 1923,
+  "average_score": 4.5600000000000005
+ },
+ {
+  "webtoon_no": 478,
+  "title": "고양이 용사 나나",
+  "regist_date": "2022-03-01",
+  "customer_id": 213,
+  "webtoon_grade": "01",
+  "total_hits": 1350,
+  "average_hits": 45,
+  "average_score": 1.23
+ },
+ {
+  "webtoon_no": 488,
+  "title": "우이천의 벚꽃길",
+  "regist_date": "2022-03-03",
+  "customer_id": 242,
+  "webtoon_grade": "02",
+  "total_hits": 21750,
+  "average_hits": 870,
+  "average_score": 4.67
+ },
+ {
+  "webtoon_no": 490,
+  "title": "오드아이 캣",
+  "regist_date": "2022-03-11",
+  "customer_id": 397,
+  "webtoon_grade": "03",
+  "total_hits": 123441,
+  "average_hits": 5367,
+  "average_score": 4.33
+ },
+ {
+  "webtoon_no": 510,
+  "title": "더 클라이밍",
+  "regist_date": "2022-03-21",
+  "customer_id": 521,
+  "webtoon_grade": "01",
+  "total_hits": 756,
+  "average_hits": 36,
+  "average_score": 2.35
+ },
+ {
+  "webtoon_no": 511,
+  "title": "쉐어하우스",
+  "regist_date": "2022-03-21",
+  "customer_id": 580,
+  "webtoon_grade": "01",
+  "total_hits": 1000,
+  "average_hits": 50,
+  "average_score": 3.11
+ },
+ {
+  "webtoon_no": 525,
+  "title": "살생기",
+  "regist_date": "2022-03-22",
+  "customer_id": 591,
+  "webtoon_grade": "01",
+  "total_hits": 1760,
+  "average_hits": 88,
+  "average_score": 3.23
+ },
+ {
+  "webtoon_no": 539,
+  "title": "아이돌의비밀학원",
+  "regist_date": "2022-04-01",
+  "customer_id": 643,
+  "webtoon_grade": "02",
+  "total_hits": 19712,
+  "average_hits": 1232,
+  "average_score": 3.21
+ },
+ {
+  "webtoon_no": 549,
+  "title": "급식엄마",
+  "regist_date": "2022-04-04",
+  "customer_id": 654,
+  "webtoon_grade": "01",
+  "total_hits": 2128,
+  "average_hits": 76,
+  "average_score": 3.76
+ },
+ {
+  "webtoon_no": 558,
+  "title": "너의 시간",
+  "regist_date": "2022-04-10",
+  "customer_id": 710,
+  "webtoon_grade": "01",
+  "total_hits": 1560,
+  "average_hits": 65,
+  "average_score": 3.45
+ },
+ {
+  "webtoon_no": 562,
+  "title": "우리 보리",
+  "regist_date": "2022-04-24",
+  "customer_id": 132,
+  "webtoon_grade": "02",
+  "total_hits": 28245,
+  "average_hits": 1345,
+  "average_score": 3.76
+ },
+ {
+  "webtoon_no": 566,
+  "title": "권리",
+  "regist_date": "2022-05-06",
+  "customer_id": 858,
+  "webtoon_grade": "01",
+  "total_hits": 1680,
+  "average_hits": 84,
+  "average_score": 2.34
+ },
+ {
+  "webtoon_no": 572,
+  "title": "가상게임",
+  "regist_date": "2022-05-10",
+  "customer_id": 989,
+  "webtoon_grade": "03",
+  "total_hits": 196460,
+  "average_hits": 9823,
+  "average_score": 4.91
+ },
+ {
+  "webtoon_no": 590,
+  "title": "은둔주식",
+  "regist_date": "2022-05-17",
+  "customer_id": 15,
+  "webtoon_grade": "02",
+  "total_hits": 8359,
+  "average_hits": 643,
+  "average_score": 2.12
+ },
+ {
+  "webtoon_no": 620,
+  "title": "배달의딸",
+  "regist_date": "2022-05-30",
+  "customer_id": 654,
+  "webtoon_grade": "02",
+  "total_hits": 8074,
+  "average_hits": 734,
+  "average_score": 3.34
+ },
+ {
+  "webtoon_no": 631,
+  "title": "보스의노골적인입맛",
+  "regist_date": "2022-06-01",
+  "customer_id": 132,
+  "webtoon_grade": "01",
+  "total_hits": 1232,
+  "average_hits": 77,
+  "average_score": 3.4699999999999998
+ },
+ {
+  "webtoon_no": 722,
+  "title": "화성식구원자전형",
+  "regist_date": "2022-06-05",
+  "customer_id": 242,
+  "webtoon_grade": "01",
+  "total_hits": 784,
+  "average_hits": 49,
+  "average_score": 4.3
+ },
+ {
+  "webtoon_no": 734,
+  "title": "바이든",
+  "regist_date": "2022-06-10",
+  "customer_id": 989,
+  "webtoon_grade": "02",
+  "total_hits": 1692,
+  "average_hits": 423,
+  "average_score": 3.21
+ },
+ {
+  "webtoon_no": 745,
+  "title": "짝사랑케이크",
+  "regist_date": "2022-06-14",
+  "customer_id": 989,
+  "webtoon_grade": "01",
+  "total_hits": 540,
+  "average_hits": 36,
+  "average_score": 3.7800000000000002
+ },
+ {
+  "webtoon_no": 751,
+  "title": "아침을지나새벽으로",
+  "regist_date": "2022-06-22",
+  "customer_id": 654,
+  "webtoon_grade": "03",
+  "total_hits": 95505,
+  "average_hits": 6367,
+  "average_score": 4.5600000000000005
+ },
+ {
+  "webtoon_no": 756,
+  "title": "보들보들",
+  "regist_date": "2022-06-30",
+  "customer_id": 131,
+  "webtoon_grade": "01",
+  "total_hits": 440,
+  "average_hits": 55,
+  "average_score": 3.33
+ },
+ {
+  "webtoon_no": 823,
+  "title": "골드쥬얼",
+  "regist_date": "2022-06-30",
+  "customer_id": 132,
+  "webtoon_grade": "03",
+  "total_hits": 30726,
+  "average_hits": 5121,
+  "average_score": 4.88
+ },
+ {
+  "webtoon_no": 829,
+  "title": "백기린",
+  "regist_date": "2022-07-01",
+  "customer_id": 989,
+  "webtoon_grade": "01",
+  "total_hits": 216,
+  "average_hits": 54,
+  "average_score": 2.65
+ },
+ {
+  "webtoon_no": 833,
+  "title": "훗내기들",
+  "regist_date": "2022-07-04",
+  "customer_id": 246,
+  "webtoon_grade": "01",
+  "total_hits": 165,
+  "average_hits": 33,
+  "average_score": 3.77
+ },
+ {
+  "webtoon_no": 935,
+  "title": "싱크홀",
+  "regist_date": "2022-07-20",
+  "customer_id": 654,
+  "webtoon_grade": "02",
+  "total_hits": 5988,
+  "average_hits": 499,
+  "average_score": 2.54
+ },
+ {
+  "webtoon_no": 956,
+  "title": "너의 봄",
+  "regist_date": "2022-07-21",
+  "customer_id": 989,
+  "webtoon_grade": "01",
+  "total_hits": 144,
+  "average_hits": 36,
+  "average_score": 3.4
+ },
+ {
+  "webtoon_no": 967,
+  "title": "고층빌딩",
+  "regist_date": "2022-07-27",
+  "customer_id": 242,
+  "webtoon_grade": "01",
+  "total_hits": 128,
+  "average_hits": 32,
+  "average_score": 3.1
+ },
+ {
+  "webtoon_no": 978,
+  "title": "천하의 주인",
+  "regist_date": "2022-08-02",
+  "customer_id": 989,
+  "webtoon_grade": "02",
+  "total_hits": 4696,
+  "average_hits": 587,
+  "average_score": 3.9699999999999998
+ }
+]

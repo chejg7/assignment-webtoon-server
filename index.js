@@ -1,4 +1,7 @@
 const Fastify = require('fastify')
+const writer = require('./data/writer_1.json')
+const webtoon = require('./data/webtoon_1.json')
+const webtoonRead = require('./data/webtoon-read_1.json')
 
 function init() {
     const fastify = Fastify({
@@ -10,15 +13,15 @@ function init() {
     });
 
     fastify.get('/user', async (request, reply) => {
-        reply.send({ massage: '유저 정보를 반환합니다'})
+        reply.send({ writer })
     });
 
     fastify.get('/webtoon', async (request, reply) => {
-        reply.send({ massage: '웹툰 정보를 반환합니다'})
+        reply.send({ webtoon })
     });
 
     fastify.get('/webtoon-read', async (request, reply) => {
-        reply.send({ massage: '이용내역 정보를 반환합니다'})
+        reply.send({ webtoonRead })
     });
 
     return fastify;
