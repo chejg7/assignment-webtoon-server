@@ -1,4 +1,5 @@
 const Fastify = require('fastify')
+const fastifyEnv = require('@fastify/env')
 
 const writer_1 = require('./data/writer_1.json')
 const webtoon_1 = require('./data/webtoon_1.json')
@@ -28,23 +29,64 @@ function init() {
         logger: true
     });
 
+    // dotenv를 사용해서 환경변수를 읽어오기 위한 세팅
+    const schema = {
+        type: 'object',
+        required: ['API_KEY'],
+        properties: {
+            API_KEY: {
+                type: 'string'
+            }
+        }
+    }
+    const options = {
+        confKey: 'config',
+        schema: schema,
+        dotenv: true,
+        data: process.env
+    }
+    fastify.register(fastifyEnv, options).ready((err) => {
+        if (err) console.log(err)
+
+        console.log(fastify.config)
+    })
+
+    // 서버로 들어온 요청의 헤더가 환경변수에 등록된 API_KEY 값과 일치하는지 확인하기 위한 함수
+    const isAuthorized = (request) => {
+        const originApiKey = fastify.config['API_KEY']
+        const apiKey = request.headers['x-api-key']
+        return (originApiKey === apiKey) ? true : false
+    }
+
     fastify.get('/', async (request, reply) => {
         reply.send({ hello: 'world' })
     });
 
     fastify.get('/user', async (request, reply) => {
-        const data = getData('writer')
-        reply.send(data)
+        if (isAuthorized(request)) {
+            const data = getData('writer')
+            reply.type('application/json').send(data)
+        } else {
+            reply.send('not authorized')
+        }
     });
 
     fastify.get('/webtoon', async (request, reply) => {
-        const data = getData('webtoon')
-        reply.send(data)
+        if (isAuthorized(request)) {
+            const data = getData('webtoon')
+            reply.type('application/json').send(data)
+        } else {
+            reply.send('not authorized')
+        }
     });
 
     fastify.get('/webtoon-read', async (request, reply) => {
-        const data = getData('webtoonRead')
-        reply.send(data)
+        if (isAuthorized(request)) {
+            const data = getData('webtoonRead')
+            reply.type('application/json').send(data)
+        } else {
+            reply.send('not authorized')
+        }
     });
 
     return fastify;
