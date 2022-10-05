@@ -1,82 +1,82 @@
 [
  {
-  "writer_id": 1002,
-  "writer_name": "감마"
+  "customer_id": 1002,
+  "customer_name": "감마"
  },
  {
-  "writer_id": 1053,
-  "writer_name": "김명헌"
+  "customer_id": 1053,
+  "customer_name": "김명헌"
  },
  {
-  "writer_id": 1061,
-  "writer_name": "앤선배"
+  "customer_id": 1061,
+  "customer_name": "앤선배"
  },
  {
-  "writer_id": 1091,
-  "writer_name": "김조안"
+  "customer_id": 1091,
+  "customer_name": "김조안"
  },
  {
-  "writer_id": 1320,
-  "writer_name": "그레이스"
+  "customer_id": 1320,
+  "customer_name": "그레이스"
  },
  {
-  "writer_id": 1411,
-  "writer_name": "땡크"
+  "customer_id": 1411,
+  "customer_name": "땡크"
  },
  {
-  "writer_id": 1423,
-  "writer_name": "떡꼬치"
+  "customer_id": 1423,
+  "customer_name": "떡꼬치"
  },
  {
-  "writer_id": 1531,
-  "writer_name": "MK"
+  "customer_id": 1531,
+  "customer_name": "MK"
  },
  {
-  "writer_id": 1532,
-  "writer_name": "LIGO"
+  "customer_id": 1532,
+  "customer_name": "LIGO"
  },
  {
-  "writer_id": 1677,
-  "writer_name": "주필"
+  "customer_id": 1677,
+  "customer_name": "주필"
  },
  {
-  "writer_id": 1691,
-  "writer_name": "체인지"
+  "customer_id": 1691,
+  "customer_name": "체인지"
  },
  {
-  "writer_id": 1701,
-  "writer_name": "활성사슴"
+  "customer_id": 1701,
+  "customer_name": "활성사슴"
  },
  {
-  "writer_id": 1789,
-  "writer_name": "샘짜장"
+  "customer_id": 1789,
+  "customer_name": "샘짜장"
  },
  {
-  "writer_id": 1805,
-  "writer_name": "영사크"
+  "customer_id": 1805,
+  "customer_name": "영사크"
  },
  {
-  "writer_id": 1830,
-  "writer_name": "저스틴"
+  "customer_id": 1830,
+  "customer_name": "저스틴"
  },
  {
-  "writer_id": 1842,
-  "writer_name": "놔"
+  "customer_id": 1842,
+  "customer_name": "놔"
  },
  {
-  "writer_id": 1945,
-  "writer_name": "알렉스"
+  "customer_id": 1945,
+  "customer_name": "알렉스"
  },
  {
-  "writer_id": 1957,
-  "writer_name": "구말년"
+  "customer_id": 1957,
+  "customer_name": "구말년"
  },
  {
-  "writer_id": 1968,
-  "writer_name": "딤디"
+  "customer_id": 1968,
+  "customer_name": "딤디"
  },
  {
-  "writer_id": 1987,
-  "writer_name": "달콤K"
+  "customer_id": 1987,
+  "customer_name": "달콤K"
  }
 ]

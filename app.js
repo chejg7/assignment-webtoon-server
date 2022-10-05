@@ -65,7 +65,7 @@ function init() {
     fastify.get('/user', async (request, reply) => {
         if (isAuthorized(request)) {
             const data = getData('writer')
-            reply.type('application/json').send(data)
+            reply.send(data)
         } else {
             reply.send('not authorized')
         }
@@ -74,7 +74,7 @@ function init() {
     fastify.get('/webtoon', async (request, reply) => {
         if (isAuthorized(request)) {
             const data = getData('webtoon')
-            reply.type('application/json').send(data)
+            reply.send(data)
         } else {
             reply.send('not authorized')
         }
@@ -83,7 +83,7 @@ function init() {
     fastify.get('/webtoon-read', async (request, reply) => {
         if (isAuthorized(request)) {
             const data = getData('webtoonRead')
-            reply.type('application/json').send(data)
+            reply.send(data)
         } else {
             reply.send('not authorized')
         }
