@@ -10,7 +10,7 @@ const webtoonRead_2 = require('./data/webtoon-read_2.json')
 
 function getData(data) {
     const date = new Date();
-    const min = date.getSeconds() // 원래 10분마다 변경으로 하려 했으나 임시로 10초마다 변경으로 바꿈
+    const min = date.getMinutes()
     const period = (min >=0 && min < 10)? 1 : (min >= 10 && min < 20)? 2 : (min >= 20 && min < 30)? 3 : (min >= 30 && min < 40)? 1 : (min >= 40 && min < 50)? 2 : 3;
     
     if (data === 'writer') {
